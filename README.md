@@ -23,14 +23,14 @@
 
 ### Statistics
 
-###### *data only from public repos*
-
 <a href="#"><img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=wojciech-kulik&show_icons=true&bg_color=282a36&border_color=282a36&title_color=f5e0dc&text_color=d9e0ee&icon_color=c9cbff" /></a>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wojciech-kulik&layout=compact&show_icons=true&bg_color=282a36&border_color=282a36&title_color=f5e0dc&text_color=ffffff&icon_color=c9cbff&langs_count=6" /></a>
 
 <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wojciech-kulik&theme=dracula" /></a>
 
 <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wojciech-kulik&theme=dracula&utcOffset=1" /></a>
+
+###### *data only from public repos*
 
 [snippety]: https://snippety.app
 [Smog Poland]: https://smog-polska.pl
