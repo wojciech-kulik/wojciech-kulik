@@ -1,10 +1,10 @@
 <!-- Icons: https://simpleicons.org/ -->
 
-![macOS](https://img.shields.io/badge/-macOS-05122A?style=for-the-badge&color=282a36&logo=apple&logoColor=ffffff)
-![Neovim](https://img.shields.io/badge/-NeoVim-05122A?style=for-the-badge&color=282a36&logo=neovim&logoColor=4b9e4b)
-![Swift](https://img.shields.io/badge/-Swift-0512AB?style=for-the-badge&color=282a36&logo=Swift&logoColor=F05138)
-![Lua](https://img.shields.io/badge/-Lua-05122A?style=for-the-badge&color=282a36&logo=lua&logoColor=0062cc)
-![.NET](https://img.shields.io/badge/-.NET-05122A?style=for-the-badge&color=282a36&logo=.NET&logoColor=0067C5)
+<a href="#"><img src="https://img.shields.io/badge/-macOS-05122A?style=for-the-badge&color=282a36&logo=apple&logoColor=ffffff" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-NeoVim-05122A?style=for-the-badge&color=282a36&logo=neovim&logoColor=4b9e4b" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Swift-0512AB?style=for-the-badge&color=282a36&logo=Swift&logoColor=F05138" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Lua-05122A?style=for-the-badge&color=282a36&logo=lua&logoColor=0062cc" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-.NET-05122A?style=for-the-badge&color=282a36&logo=.NET&logoColor=0067C5" /></a>
 
 ### About Me
 
