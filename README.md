@@ -2,6 +2,8 @@
 
 <a href="#"><img src="https://img.shields.io/badge/-macOS-05122A?style=for-the-badge&color=282a36&logo=apple&logoColor=ffffff" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-NeoVim-05122A?style=for-the-badge&color=282a36&logo=neovim&logoColor=4b9e4b" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-tmux-05122A?style=for-the-badge&color=282a36&logo=tmux&logoColor=1BB91F" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-iTerm2-05122A?style=for-the-badge&color=282a36&logo=iTerm2&logoColor=4b9e4b" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Swift-0512AB?style=for-the-badge&color=282a36&logo=Swift&logoColor=F05138" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Lua-05122A?style=for-the-badge&color=282a36&logo=lua&logoColor=0062cc" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-.NET-05122A?style=for-the-badge&color=282a36&logo=.NET&logoColor=0067C5" /></a>
