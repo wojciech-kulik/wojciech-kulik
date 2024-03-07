@@ -19,9 +19,10 @@
 - 🛠️ [xcodebuild.nvim] - open source Neovim plugin to develop iOS and macOS applications
 - 📖 [wojciechkulik.pl] - personal blog
 
-&nbsp;
+### Stats
 
-<!-- Catppuccin themed -->
+###### *stats only include public repos*
+
 <a href="#"><img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=wojciech-kulik&show_icons=true&bg_color=282a36&border_color=282a36&title_color=f5e0dc&text_color=d9e0ee&icon_color=c9cbff" /></a>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wojciech-kulik&layout=compact&show_icons=true&bg_color=282a36&border_color=282a36&title_color=f5e0dc&text_color=ffffff&icon_color=c9cbff&langs_count=6" /></a>
 
