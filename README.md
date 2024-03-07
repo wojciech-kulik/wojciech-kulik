@@ -21,7 +21,7 @@
 - 🛠️ [xcodebuild.nvim] - open source Neovim plugin to develop iOS and macOS applications
 - 📖 [wojciechkulik.pl] - personal blog
 
-### Stats
+### Statistics
 
 ###### *data only from public repos*
 
