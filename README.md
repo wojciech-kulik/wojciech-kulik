@@ -34,7 +34,7 @@
 ### Contact me
 
 [<img align="left" alt="Twitter" width="22px" src="https://wojciechkulik.pl/wp-includes/images/twitter.png" />][twitter]
-<img src="https://wojciechkulik.pl/wp-content/uploads/2021/12/mail-350x30.png" width="170px" />
+<a href="#"><img src="https://wojciechkulik.pl/wp-content/uploads/2021/12/mail-350x30.png" width="170px" /></a>
 
 [twitter]: https://twitter.com/kulik_wojciech
 [snippety]: https://snippety.app
