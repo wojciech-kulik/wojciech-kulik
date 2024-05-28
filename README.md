@@ -12,7 +12,6 @@
 ### About Me
 
 - 🔭 I’m currently working on [Snippety] and [xcodebuild.nvim]
-- 🤓 I've recently learned Lua and how to publish and manage open-source projects
 - 🔥 I’m trying to figure out how to extend Neovim skills to maximum
 - 🚀 I decided to build my own Xcode in Neovim ecosystem: [xcodebuild.nvim]
 
