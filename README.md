@@ -2,9 +2,10 @@
 
 <a href="https://www.apple.com/macos/sonoma/"><img src="https://img.shields.io/badge/-macOS-05122A?style=for-the-badge&color=282a36&logo=apple&logoColor=ffffff" /></a>
 <a href="https://arc.net"><img src="https://img.shields.io/badge/-arc-05122A?style=for-the-badge&color=282a36&logo=arc&logoColor=FF6378" /></a>
+<a href="https://nixos.org"><img src="https://img.shields.io/badge/-NIX-05122A?style=for-the-badge&color=282a36&logo=NixOS&logoColor=5277C3" /></a>
 <a href="https://neovim.io"><img src="https://img.shields.io/badge/-NeoVim-05122A?style=for-the-badge&color=282a36&logo=neovim&logoColor=4b9e4b" /></a>
 <a href="https://github.com/tmux/tmux"><img src="https://img.shields.io/badge/-tmux-05122A?style=for-the-badge&color=282a36&logo=tmux&logoColor=1BB91F" /></a>
-<a href="https://iterm2.com"><img src="https://img.shields.io/badge/-iTerm2-05122A?style=for-the-badge&color=282a36&logo=iTerm2&logoColor=4b9e4b" /></a>
+<a href="https://sw.kovidgoyal.net/kitty/"><img src="https://img.shields.io/badge/-kitty-05122A?style=for-the-badge&color=282a36&logo=iTerm2&logoColor=4b9e4b" /></a>
 <a href="https://www.swift.org"><img src="https://img.shields.io/badge/-Swift-0512AB?style=for-the-badge&color=282a36&logo=Swift&logoColor=F05138" /></a>
 <a href="https://www.youtube.com/watch?v=jUuqBZwwkQw"><img src="https://img.shields.io/badge/-Lua-05122A?style=for-the-badge&color=282a36&logo=lua&logoColor=0062cc" /></a>
 <a href="https://dotnet.microsoft.com"><img src="https://img.shields.io/badge/-.NET-05122A?style=for-the-badge&color=282a36&logo=.NET&logoColor=0067C5" /></a>
@@ -14,6 +15,7 @@
 - 🔭 I’m currently working on [Snippety] and [xcodebuild.nvim]
 - 🔥 I’m trying to figure out how to extend Neovim skills to maximum
 - 🚀 I decided to build my own Xcode in Neovim ecosystem: [xcodebuild.nvim]
+- 🤩 I'm playing with [Nix] to make my macOS config reproducible and I love it!
 
 ### Most Important Projects
 - 👨‍💻 [Snippety] - productivity application for iOS and macOS to manage snippets
@@ -36,3 +38,4 @@
 [Smog Poland]: https://smog-polska.pl
 [wojciechkulik.pl]: https://wojciechkulik.pl
 [xcodebuild.nvim]: https://github.com/wojciech-kulik/xcodebuild.nvim
+[nix]: https://nixos.org
