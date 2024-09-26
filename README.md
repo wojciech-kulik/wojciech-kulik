@@ -1,8 +1,8 @@
 <!-- Icons: https://simpleicons.org/ -->
 
 <a href="https://www.apple.com/macos/sonoma/"><img src="https://img.shields.io/badge/-macOS-05122A?style=for-the-badge&color=282a36&logo=apple&logoColor=ffffff" /></a>
-<a href="https://arc.net"><img src="https://img.shields.io/badge/-arc-05122A?style=for-the-badge&color=282a36&logo=arc&logoColor=FF6378" /></a>
 <a href="https://nixos.org"><img src="https://img.shields.io/badge/-NIX-05122A?style=for-the-badge&color=282a36&logo=NixOS&logoColor=5277C3" /></a>
+<a href="https://arc.net"><img src="https://img.shields.io/badge/-arc-05122A?style=for-the-badge&color=282a36&logo=arc&logoColor=FF6378" /></a>
 <a href="https://neovim.io"><img src="https://img.shields.io/badge/-NeoVim-05122A?style=for-the-badge&color=282a36&logo=neovim&logoColor=4b9e4b" /></a>
 <a href="https://github.com/tmux/tmux"><img src="https://img.shields.io/badge/-tmux-05122A?style=for-the-badge&color=282a36&logo=tmux&logoColor=1BB91F" /></a>
 <a href="https://sw.kovidgoyal.net/kitty/"><img src="https://img.shields.io/badge/-kitty-05122A?style=for-the-badge&color=282a36&logo=iTerm2&logoColor=4b9e4b" /></a>
