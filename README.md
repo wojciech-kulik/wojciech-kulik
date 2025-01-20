@@ -13,6 +13,7 @@
 ### About Me
 
 - 🔭 I’m currently working on [Snippety] and [xcodebuild.nvim]
+- ⚡ It's enough of super-slow macOS Spaces - I've started building [FlashSpace]
 - 🔥 I’m trying to figure out how to extend Neovim skills to maximum
 - 🚀 I decided to build my own Xcode in Neovim ecosystem: [xcodebuild.nvim]
 - 🤩 I'm playing with [Nix] to make my macOS config reproducible and I love it!
@@ -20,7 +21,7 @@
 ### Most Important Projects
 - 👨‍💻 [Snippety] - productivity application for iOS and macOS to manage snippets
 - 🏭 [Smog Poland] - air pollution tracking application for iOS and Android
-- 🛠️ [xcodebuild.nvim] - open source Neovim plugin to develop iOS and macOS applications
+- 🛠️ [xcodebuild.nvim] - open-source Neovim plugin to develop iOS and macOS applications
 - 📖 [wojciechkulik.pl] - personal blog
 
 ### Statistics
@@ -38,4 +39,5 @@
 [Smog Poland]: https://smog-polska.pl
 [wojciechkulik.pl]: https://wojciechkulik.pl
 [xcodebuild.nvim]: https://github.com/wojciech-kulik/xcodebuild.nvim
+[FlashSpace]: https://github.com/wojciech-kulik/FlashSpace
 [nix]: https://nixos.org
