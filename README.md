@@ -31,8 +31,6 @@
 
 <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wojciech-kulik&theme=dracula" /></a>
 
-<a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wojciech-kulik&theme=dracula&utcOffset=1" /></a>
-
 ###### *data only from public repos*
 
 [snippety]: https://snippety.app
