@@ -22,6 +22,7 @@
 - 👨‍💻 [Snippety] - productivity application for iOS and macOS to manage snippets
 - 🏭 [Smog Poland] - air pollution tracking application for iOS and Android
 - 🛠️ [xcodebuild.nvim] - open-source Neovim plugin to develop iOS and macOS applications
+- ⚡ [FlashSpace] - open-source virtual workspace manager for macOS
 - 📖 [wojciechkulik.pl] - personal blog
 
 ### Statistics
