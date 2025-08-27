@@ -14,7 +14,7 @@
 - 🔭 I'm working on [Snippety], [FlashSpace], and [xcodebuild.nvim]
 - 🔥 I'm leveling up my Neovim skills every day
 - 🚀 I've built my own Xcode in Neovim: [xcodebuild.nvim]
-- 🤩 I've learned [Nix] to make my macOS config reproducible!
+- 🤩 I've learned [Nix] to make my macOS config fully reproducible!
 
 ### Most Important Projects
 
