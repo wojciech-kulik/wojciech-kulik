@@ -22,6 +22,7 @@
 - 🛠️ [xcodebuild.nvim] - open-source Neovim plugin to develop iOS and macOS applications
 - ⚡ [FlashSpace] - open-source virtual workspace manager for macOS
 - 🏭 [Smog Poland] - air pollution tracking application for iOS and Android
+- 🖥️ [XcodeProjectCLI] - Open Source CLI tool to manage Xcode project
 - 📖 [wojciechkulik.pl] - personal blog
 
 ### Statistics
@@ -39,3 +40,4 @@
 [xcodebuild.nvim]: https://github.com/wojciech-kulik/xcodebuild.nvim
 [FlashSpace]: https://github.com/wojciech-kulik/FlashSpace
 [nix]: https://nixos.org
+[XcodeProjectCLI]: https://github.com/wojciech-kulik/XcodeProjectCLI
