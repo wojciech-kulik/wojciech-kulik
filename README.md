@@ -39,6 +39,7 @@ If my work has saved you time or helped your workflow, please consider supportin
 
 - [GitHub Sponsors]
 - [Buy Me A Coffee]
+- Buy [Snippety]
 - BTC: bc1qqs4ct2tje2xuu4e9y5tjkzardefckvw6rv4emh
 - ETH: 0x9Fb744Fdcf6Be6ADb70d4D841deeAD779Ab6e6e2
 
