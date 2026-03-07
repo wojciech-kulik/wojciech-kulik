@@ -11,6 +11,9 @@
 
 ### About Me
 
+I'm currently building in public and transitioning away from the traditional 9-5 to focus entirely on my own projects and open-source contributions.
+Your support and donations directly fuel this journey! Thank you for making independent development possible! 🍻
+
 - 🔭 I'm working on [Snippety], [FlashSpace], and [xcodebuild.nvim]
 - 🔥 I'm leveling up my Neovim skills every day
 - 🚀 I've built my own Xcode in Neovim: [xcodebuild.nvim]
@@ -29,6 +32,16 @@
 
 <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wojciech-kulik&theme=dracula" /></a>
 
+### Donate
+
+I appreciate all the support 💛. Going independent means I rely entirely on the community to keep these projects alive and evolving. 
+If my work has saved you time or helped your workflow, please consider supporting me through one of the channels below:
+
+- [GitHub Sponsors]
+- [Buy Me A Coffee]
+- BTC: bc1qqs4ct2tje2xuu4e9y5tjkzardefckvw6rv4emh
+- ETH: 0x9Fb744Fdcf6Be6ADb70d4D841deeAD779Ab6e6e2
+
 ###### *data only from public repos*
 
 [snippety]: https://snippety.app
@@ -38,3 +51,5 @@
 [FlashSpace]: https://github.com/wojciech-kulik/FlashSpace
 [nix]: https://nixos.org
 [XcodeProjectCLI]: https://github.com/wojciech-kulik/XcodeProjectCLI
+[GitHub Sponsors]: https://github.com/sponsors/wojciech-kulik
+[Buy Me A Coffee]: https://buymeacoffee.com/wojciechkulik
