@@ -43,8 +43,6 @@ If my work has saved you time or helped your workflow, please consider supportin
 - BTC: bc1qqs4ct2tje2xuu4e9y5tjkzardefckvw6rv4emh
 - ETH: 0x9Fb744Fdcf6Be6ADb70d4D841deeAD779Ab6e6e2
 
-###### *data only from public repos*
-
 [snippety]: https://snippety.app
 [Smog Poland]: https://smog-polska.pl
 [wojciechkulik.pl]: https://wojciechkulik.pl
