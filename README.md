@@ -15,9 +15,8 @@ I'm currently building in public and transitioning away from the traditional 9-5
 Your support and donations directly fuel this journey! Thank you for making independent development possible! 🍻
 
 - 🔭 I'm working on [Snippety], [FlashSpace], and [xcodebuild.nvim]
-- 🔥 I'm leveling up my Neovim skills every day
+- 🔥 I'm leveling up my Neovim skills
 - 🚀 I've built my own Xcode in Neovim: [xcodebuild.nvim]
-- 🤩 I've learned [Nix] to make my macOS config fully reproducible!
 
 ### Most Important Projects
 
