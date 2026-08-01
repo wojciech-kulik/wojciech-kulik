@@ -27,10 +27,6 @@ Your support and donations directly fuel this journey! Thank you for making inde
 - 🖥️ [XcodeProjectCLI] - Open Source CLI tool to manage Xcode project
 - 📖 [wojciechkulik.pl] - personal blog
 
-### Statistics
-
-<a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wojciech-kulik&theme=dracula" /></a>
-
 ### Donate
 
 I appreciate all the support 💛. Going independent means I rely entirely on the community to keep these projects alive and evolving. 
@@ -38,11 +34,10 @@ If my work has saved you time or helped your workflow, please consider supportin
 
 - [GitHub Sponsors]
 - [Buy Me A Coffee]
-- Buy [Snippety]
-- BTC: bc1qqs4ct2tje2xuu4e9y5tjkzardefckvw6rv4emh
-- ETH: 0x9Fb744Fdcf6Be6ADb70d4D841deeAD779Ab6e6e2
+- [Buy Snippety]
 
 [snippety]: https://snippety.app
+[buy snippety]: https://snippety.app
 [Smog Poland]: https://smog-polska.pl
 [wojciechkulik.pl]: https://wojciechkulik.pl
 [xcodebuild.nvim]: https://github.com/wojciech-kulik/xcodebuild.nvim
